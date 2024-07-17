@@ -2,6 +2,8 @@
 
 Este projeto apresenta uma análise detalhada dos dados de recursos humanos utilizando Power BI. Ele inclui várias visualizações interativas que permitem explorar informações como salários, distribuição de funcionários por gênero, média de idade por gênero, total de funcionários, tipos de departamento, e muito mais.
 
+![Dashboard RH](captura/captura.png)
+
 ## Funcionalidades
 
 ### 1. Visualização de Salários
